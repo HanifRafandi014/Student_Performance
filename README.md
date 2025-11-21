@@ -6,6 +6,12 @@ Visualization : Looker & Notebook<br>
 Source Dataset : Kaggle <br>
 
 # 📂 STAGE 0: Business Understanding
+## Entity Relationship Diagram :
+<p align="center">
+    <kbd> <img width="200" alt="erd" src="erd student performance.png"> </kbd> <br>
+    Gambar 1 — ERD Dashboard
+</p>
+
 ## Tugas :
 Analisis Korelasi dan Prediksi Prestasi Akademik.
 
