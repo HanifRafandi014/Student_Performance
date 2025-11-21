@@ -1,24 +1,16 @@
 # 📔**Student Performance**
-Tool : Google Collab <br>
+Tool : Google Collab, Ms. Excel, Looker, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
+Visualization : Looker & Notebook<br>
 Source Dataset : SMKDEV <br>
 
 # 📂 STAGE 0: Business Understanding
-## Background Project :
-wertyudhj.
-
-## Objective :
-1. wertysj.
-2. eritukwjd.
+## Tugas :
+Analisis Korelasi dan Prediksi Prestasi Akademik.
 
 ## Goals :
-maneuhejrk
-
-## Method :
-Cross-Industry Standard Process for Data Mining (CRISP-DM)
-<br>
+Mengidentifikasi faktor-faktor sosio-ekonomi dan perilaku yang paling signifikan memengaruhi hasil nilai siswa, sehingga memungkinkan intervensi pendidikan yang ditargetkan untuk meningkatkan kinerja.
 
 # 📂 STAGE 1: Data Understanding
 ## Data Overview :
@@ -27,10 +19,4 @@ Cross-Industry Standard Process for Data Mining (CRISP-DM)
 
 ## Data Exploration :
 
-# 📂 STAGE 2: Data Preparation
-
-# 📂 STAGE 3: Modelling
-
-# 📂 STAGE 4: Evaluation
-
-# 📂 STAGE 5: Deployment
+# 📂 STAGE 2: Recommendation
